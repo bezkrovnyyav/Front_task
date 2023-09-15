@@ -1,7 +1,7 @@
 # Front_task
 ---
  ## Task:
- ### [Create portfolio site](https://www.figma.com/file/IKo7HvgaauT3SA3xrfsLDa/Developer-Portfolio-Design-(Community)?node-id=21%3A13&mode=dev)
+ [Create portfolio site][def]
 
  **1.** [X] Create header;
  
@@ -16,3 +16,6 @@
  **6.** [ ] Create foorth desktop part;
 
  **7.** [ ] Create fifth desktop part.
+
+
+[def]: https://www.figma.com/file/IKo7HvgaauT3SA3xrfsLDa/Developer-Portfolio-Design-(Community)?node-id=21%3A13&mode=dev
