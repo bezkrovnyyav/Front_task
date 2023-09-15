@@ -1,7 +1,7 @@
 # Front_task
 ---
  ## Task:
- ### [Create portfolio site] (https://www.figma.com/file/IKo7HvgaauT3SA3xrfsLDa/Developer-Portfolio-Design-(Community)?node-id=21%3A13&mode=dev)
+ ### [Create portfolio site](https://www.figma.com/file/IKo7HvgaauT3SA3xrfsLDa/Developer-Portfolio-Design-(Community)?node-id=21%3A13&mode=dev)
 
  **1.** [X] Create header;
  
